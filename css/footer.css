@@ -1,7 +1,7 @@
-
 html, body {
 	overflow-x: hidden !important;
 }
+
 /*******************************************
 MAIN NAVIGATION
 /*******************************************/
@@ -187,10 +187,6 @@ FOOTER STYLES
 	padding:40px 0px;
 	height:auto;
 	padding-left: 130px;
-	width: 90%;
-	padding:40px 0px;
-	margin: 0 auto;
-	height:auto;
 }
 .footer img {
 	padding-right:40px;
@@ -270,19 +266,11 @@ FOOTER STYLES
 	font-weight: 300;
 	opacity:.5;
     line-height:1.5;
-	float:right;
-	text-align:right;
-}
-.footerLegal h5 {
-	color: #fff;
-	font-weight: 300;
-	opacity:.3;
 }
 .footerLegal a {
 	margin: 0px 20px;
 	text-decoration:underline;
 	color:#fff;
-	margin-left: -0px;
 }
 .connect-push {
 	margin-top:25px;
@@ -322,7 +310,6 @@ FOOTER STYLES
 	}
 	.footer img {
 		padding:0px 20px;
-		margin: auto;
 	}
 	.footerLegal{
 		float:none;
