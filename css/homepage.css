@@ -183,7 +183,14 @@
     width:100%;
     height:auto;
 }
+		.tab-content{
+			display: none;
+			padding: 15px;
+		}
 
+		.tab-content.current{
+			display: inherit;
+		}
 .btn-default.active, .btn-default:active, .open>.dropdown-toggle.btn-default{
 	background-color: #0372bc;
 	border:#0372bc;
